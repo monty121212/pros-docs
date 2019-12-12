@@ -17,7 +17,7 @@ This tutorial is intended for developers with some programming
 experience, but with little to no experience with the PROS library. If
 you haven't programmed before, we recommend checking out all the
 "Introduction and Basic C Features" sections of `this tutorial
-series <http://www.studytonight.com/c/overview-of-c.php>`__; you may also
+series <http://www.msrblog.com/c/overview-of-c.php.html>`__; you may also
 benefit from the "Pointers, Arrays and Strings" sections as well
 (although they aren't as pertinent).
 
